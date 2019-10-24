@@ -1,2 +1,2 @@
 # newsletter
-Newsletter, enter your email address
+Enter your email address
